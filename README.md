@@ -14,11 +14,7 @@
 
 ###
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/0c3a8d31-fdfa-4701-85dc-98e9fd6d4823" type="video/mp4">
-  <!-- Demo Tienda INC -->
-</video>
-
+<video src="[ruta_del_video.mp4](https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/0c3a8d31-fdfa-4701-85dc-98e9fd6d4823)" width="640" height="360" controls></video>
 
 ###
 
