@@ -14,17 +14,7 @@
 
 ###
 
-
-
 https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/d6608f99-f53e-4389-bf8e-8c52e9e77524
-
-
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/0c3a8d31-fdfa-4701-85dc-98e9fd6d4823"  />
-</div>
 
 ###
 
