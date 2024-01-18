@@ -1,6 +1,10 @@
 TIENDA INC
   App de tienda de indumentaria, con diferentes secciones
 
+  DEMO:
+  https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/0c3a8d31-fdfa-4701-85dc-98e9fd6d4823
+
+
 Mira Deployment para conocer como desplegar el proyecto.
 
 Pre-requisitos 📋
