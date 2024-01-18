@@ -7,10 +7,10 @@ TIENDA INC
 
 Mira Deployment para conocer como desplegar el proyecto.
 
-Pre-requisitos 📋
+<p>Pre-requisitos 📋
 Que cosas necesitas para instalar el software y como instalarlas
 Es necesario Visual studio, Vite, un navegador compatible
-
+</p>
 
 Instalación 🔧
 *En su pantalla principal podemos ver todos los articulos
