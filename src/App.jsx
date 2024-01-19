@@ -16,7 +16,7 @@ const App = () => {
       <NotificationProvider>
         <BrowserRouter>
           <CartProvider>
-            <Navbar />
+            <NavBar />
             <main>
               <Routes>
                 <Route path='/' element={<ItemListContainer greeting={'Todas las Categorias'} />} />
