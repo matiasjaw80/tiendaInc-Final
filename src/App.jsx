@@ -1,6 +1,6 @@
 import './App.css'
 
-import Navbar from './components/Navbar/Navbar'
+import Navbar from './components/NavBar/NavBar'
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailContainer'
 import CartView from './components/CartView/CartView'
@@ -16,7 +16,7 @@ const App = () => {
       <NotificationProvider>
         <BrowserRouter>
           <CartProvider>
-            <NavBar />
+            <Navbar />
             <main>
               <Routes>
                 <Route path='/' element={<ItemListContainer greeting={'Todas las Categorias'} />} />
