@@ -13,8 +13,13 @@
 <p align="center">TIENDA INC App de tienda de indumentaria, con diferentes secciones</p>
 
 ###
-
+DEMO Front-End
 https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/d6608f99-f53e-4389-bf8e-8c52e9e77524
+
+###
+
+DEMO Back-End
+https://github.com/matiasjaw80/tiendaInc-final/assets/139645562/6a1e8968-8b3c-4ff4-84db-2d9f7b6e444d
 
 ###
 
